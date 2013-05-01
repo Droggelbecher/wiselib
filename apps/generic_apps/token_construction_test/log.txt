@@ -19,178 +19,336 @@ Simulation: Running task 'rect_world'
 Simulation: Task done 'rect_world'
 Simulation: Running task 'simulation'
 ------------------------------ BEGIN ITERATION 0
-Hello World from Example Application! my id=0 app=0x82e69c0
+Hello World from Example Application! my id=0 app=0x933a9c0
 
-Hello World from Example Application! my id=1 app=0x82e6c98
+Hello World from Example Application! my id=1 app=0x933ac98
 
-...struction/token_construction.h:436 node 1 SE 1.0 awake=1
+...struction/token_construction.h:468 node 1 SE 1.0 awake=1
 ...struction/token_construction.h:201 node 1 on 1
-...struction/token_construction.h:172 node 1 SE 1.0. active=0
-Hello World from Example Application! my id=2 app=0x82e70b0
+...struction/token_construction.h:172 node 1 SE 1.0 active=0
+Hello World from Example Application! my id=2 app=0x933b0b0
 
-...struction/token_construction.h:436 node 2 SE 1.1 awake=1
+...struction/token_construction.h:468 node 2 SE 1.1 awake=1
 ...struction/token_construction.h:201 node 2 on 1
-...struction/token_construction.h:172 node 2 SE 1.1. active=0
-Hello World from Example Application! my id=3 app=0x82e74c8
+...struction/token_construction.h:172 node 2 SE 1.1 active=0
+Hello World from Example Application! my id=3 app=0x933b4c8
 
-...struction/token_construction.h:436 node 3 SE 1.0 awake=1
+...struction/token_construction.h:468 node 3 SE 1.0 awake=1
 ...struction/token_construction.h:201 node 3 on 1
-...struction/token_construction.h:172 node 3 SE 1.0. active=0
-...struction/token_construction.h:436 node 3 SE 1.1 awake=1
-...struction/token_construction.h:172 node 3 SE 1.1. active=0
-Hello World from Example Application! my id=4 app=0x82e7a20
+...struction/token_construction.h:172 node 3 SE 1.0 active=0
+...struction/token_construction.h:468 node 3 SE 1.1 awake=1
+...struction/token_construction.h:172 node 3 SE 1.1 active=0
+Hello World from Example Application! my id=4 app=0x933ba20
 
-...struction/token_construction.h:436 node 4 SE 1.2 awake=1
+...struction/token_construction.h:468 node 4 SE 1.2 awake=1
 ...struction/token_construction.h:201 node 4 on 1
-...struction/token_construction.h:172 node 4 SE 1.2. active=0
-Hello World from Example Application! my id=5 app=0x82e7e38
+...struction/token_construction.h:172 node 4 SE 1.2 active=0
+Hello World from Example Application! my id=5 app=0x933be38
 
-...struction/token_construction.h:436 node 5 SE 1.0 awake=1
+...struction/token_construction.h:468 node 5 SE 1.0 awake=1
 ...struction/token_construction.h:201 node 5 on 1
-...struction/token_construction.h:172 node 5 SE 1.0. active=0
-...struction/token_construction.h:436 node 5 SE 1.2 awake=1
-...struction/token_construction.h:172 node 5 SE 1.2. active=0
-Hello World from Example Application! my id=6 app=0x82e8428
+...struction/token_construction.h:172 node 5 SE 1.0 active=0
+...struction/token_construction.h:468 node 5 SE 1.2 awake=1
+...struction/token_construction.h:172 node 5 SE 1.2 active=0
+Hello World from Example Application! my id=6 app=0x933c428
 
-...struction/token_construction.h:436 node 6 SE 1.1 awake=1
+...struction/token_construction.h:468 node 6 SE 1.1 awake=1
 ...struction/token_construction.h:201 node 6 on 1
-...struction/token_construction.h:172 node 6 SE 1.1. active=0
-...struction/token_construction.h:436 node 6 SE 1.2 awake=1
-...struction/token_construction.h:172 node 6 SE 1.2. active=0
-Hello World from Example Application! my id=7 app=0x82e8a38
+...struction/token_construction.h:172 node 6 SE 1.1 active=0
+...struction/token_construction.h:468 node 6 SE 1.2 awake=1
+...struction/token_construction.h:172 node 6 SE 1.2 active=0
+Hello World from Example Application! my id=7 app=0x933ca38
 
-...struction/token_construction.h:436 node 7 SE 1.0 awake=1
+...struction/token_construction.h:468 node 7 SE 1.0 awake=1
 ...struction/token_construction.h:201 node 7 on 1
-...struction/token_construction.h:172 node 7 SE 1.0. active=0
-...struction/token_construction.h:436 node 7 SE 1.1 awake=1
-...struction/token_construction.h:172 node 7 SE 1.1. active=0
-...struction/token_construction.h:436 node 7 SE 1.2 awake=1
-...struction/token_construction.h:172 node 7 SE 1.2. active=0
-Hello World from Example Application! my id=8 app=0x82e9188
+...struction/token_construction.h:172 node 7 SE 1.0 active=0
+...struction/token_construction.h:468 node 7 SE 1.1 awake=1
+...struction/token_construction.h:172 node 7 SE 1.1 active=0
+...struction/token_construction.h:468 node 7 SE 1.2 awake=1
+...struction/token_construction.h:172 node 7 SE 1.2 active=0
+Hello World from Example Application! my id=8 app=0x933d188
 
-...struction/token_construction.h:436 node 8 SE 1.3 awake=1
+...struction/token_construction.h:468 node 8 SE 1.3 awake=1
 ...struction/token_construction.h:201 node 8 on 1
-...struction/token_construction.h:172 node 8 SE 1.3. active=0
-Hello World from Example Application! my id=9 app=0x82e9658
+...struction/token_construction.h:172 node 8 SE 1.3 active=0
+Hello World from Example Application! my id=9 app=0x933d658
 
-...struction/token_construction.h:436 node 9 SE 1.0 awake=1
+...struction/token_construction.h:468 node 9 SE 1.0 awake=1
 ...struction/token_construction.h:201 node 9 on 1
-...struction/token_construction.h:172 node 9 SE 1.0. active=0
-...struction/token_construction.h:436 node 9 SE 1.3 awake=1
-...struction/token_construction.h:172 node 9 SE 1.3. active=0
+...struction/token_construction.h:172 node 9 SE 1.0 active=0
+...struction/token_construction.h:468 node 9 SE 1.3 awake=1
+...struction/token_construction.h:172 node 9 SE 1.3 active=0
 ------------------------------- DONE ITERATION 0
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 1
-...struction/token_construction.h:505 node 7 SE 1.1 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=1 awake=1
-...struction/token_construction.h:505 node 3 SE 1.1 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=1 awake=1
-...struction/token_construction.h:505 node 9 SE 1.0 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 9 SE 1.0 active=1 awake=1
-...struction/token_construction.h:505 node 7 SE 1.0 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 7 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=1 awake=1
-...struction/token_construction.h:505 node 2 SE 1.1 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...struction/token_construction.h:505 node 7 SE 1.2 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 7 SE 1.2 active=1 awake=1
-...struction/token_construction.h:505 node 5 SE 1.2 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=1 awake=1
-...struction/token_construction.h:505 node 6 SE 1.2 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 6 SE 1.2 active=1 awake=1
-...struction/token_construction.h:505 node 4 SE 1.2 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=1 awake=1
-...struction/token_construction.h:505 node 3 SE 1.0 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 3 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...struction/token_construction.h:505 node 1 SE 1.0 active=1 because of tree change!
-...construction/semantic_entity.h:328 node 1 SE 1.0 active=1 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:548 node 7 SE 1.1 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 7 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:548 node 3 SE 1.1 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=3 from=2
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:548 node 9 SE 1.0 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=9 from=1
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 9 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=1 awake=1
+...struction/token_construction.h:548 node 7 SE 1.0 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 7 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 7 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:548 node 2 SE 1.1 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:548 node 7 SE 1.2 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 7 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=1 awake=1
+...struction/token_construction.h:548 node 5 SE 1.2 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=5 from=4
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 5 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=1 awake=1
+...struction/token_construction.h:548 node 6 SE 1.2 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 6 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=1 awake=1
+...struction/token_construction.h:548 node 4 SE 1.2 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 5 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=1 awake=1
+...struction/token_construction.h:548 node 3 SE 1.0 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:548 node 1 SE 1.0 active=1 because of tree change!
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 1 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=1 awake=1
 ------------------------------- DONE ITERATION 1
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 2
-...construction/semantic_entity.h:328 node 3 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
-...struction/token_construction.h:509 node 7 SE 1.2 active=0 because of tree change!
-...struction/token_construction.h:451 node 7 SE 1.2 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.2 active=0 awake=0
-...struction/token_construction.h:509 node 5 SE 1.2 active=0 because of tree change!
-...struction/token_construction.h:451 node 5 SE 1.2 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=0
-...struction/token_construction.h:509 node 7 SE 1.0 active=0 because of tree change!
-...struction/token_construction.h:451 node 7 SE 1.0 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.0 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.0 active=0 awake=0
-...struction/token_construction.h:509 node 7 SE 1.1 active=0 because of tree change!
-...struction/token_construction.h:451 node 7 SE 1.1 awake=0
-...struction/token_construction.h:213 node 7 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...struction/token_construction.h:509 node 9 SE 1.0 active=0 because of tree change!
-...struction/token_construction.h:451 node 9 SE 1.0 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 9 SE 1.0 active=0 awake=0
-...construction/semantic_entity.h:328 node 9 SE 1.0 active=0 awake=0
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=0 awake=0
-...struction/token_construction.h:509 node 3 SE 1.1 active=0 because of tree change!
-...struction/token_construction.h:451 node 3 SE 1.1 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=0
-...struction/token_construction.h:509 node 6 SE 1.2 active=0 because of tree change!
-...struction/token_construction.h:451 node 6 SE 1.2 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 6 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 6 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 1 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 1 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 3 SE 1.0 active=1 awake=1
-...construction/semantic_entity.h:328 node 6 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:552 node 7 SE 1.2 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=0 awake=1
+...struction/token_construction.h:552 node 5 SE 1.2 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 5 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 5 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:552 node 7 SE 1.0 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.0 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=0 awake=1
+...struction/token_construction.h:552 node 7 SE 1.1 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:552 node 9 SE 1.0 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 9 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=9 from=1
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 9 SE 1.0 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:552 node 3 SE 1.1 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 3 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 6 -> 4 via 5
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:552 node 6 SE 1.2 active=0 because of tree change!
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 6 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 6 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 1 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=1 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 6 -> 4 via 5
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 2 via 7
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 1 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 7 -> 2 via 3
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.0 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 6 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 7 via 2
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 5 -> 7 via 4
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
 ------------------------------- DONE ITERATION 2
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 3
-...struction/token_construction.h:201 node 7 on 1
-...struction/token_construction.h:213 node 7 on 0
-...struction/token_construction.h:436 node 7 SE 1.1 awake=1
-...struction/token_construction.h:201 node 7 on 1
-...struction/token_construction.h:436 node 5 SE 1.2 awake=1
-...struction/token_construction.h:436 node 7 SE 1.0 awake=1
-...struction/token_construction.h:436 node 9 SE 1.0 awake=1
-...struction/token_construction.h:436 node 3 SE 1.1 awake=1
-...struction/token_construction.h:436 node 6 SE 1.2 awake=1
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=1
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=1 awake=1
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=1
-...struction/token_construction.h:436 node 7 SE 1.2 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=0 prevcount=0 count=0 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 7 -> 2 via 3
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 6 -> 4 via 5
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 5 -> 7 via 4
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 7 via 2
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
 ------------------------------- DONE ITERATION 3
   [ 10 active, 0 sleeping, 0 inactive ]
 
@@ -223,86 +381,131 @@ Hello World from Example Application! my id=9 app=0x82e9658
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 11
-...struction/token_construction.h:451 node 3 SE 1.1 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=0
-...struction/token_construction.h:451 node 9 SE 1.0 awake=0
-...struction/token_construction.h:213 node 9 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 9 SE 1.0 active=0 awake=0
-...struction/token_construction.h:451 node 7 SE 1.0 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.0 active=0 awake=0
-...struction/token_construction.h:451 node 2 SE 1.1 awake=0
-...struction/token_construction.h:213 node 2 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 2 SE 1.1 active=0 awake=0
-...struction/token_construction.h:451 node 7 SE 1.2 awake=0
-...struction/token_construction.h:213 node 7 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.2 active=0 awake=0
-...struction/token_construction.h:451 node 5 SE 1.2 awake=0
-...struction/token_construction.h:213 node 5 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 5 SE 1.2 active=0 awake=0
-...struction/token_construction.h:451 node 6 SE 1.2 awake=0
-...struction/token_construction.h:213 node 6 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 6 SE 1.2 active=0 awake=0
-...struction/token_construction.h:451 node 4 SE 1.2 awake=0
-...struction/token_construction.h:213 node 4 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 4 SE 1.2 active=0 awake=0
-...struction/token_construction.h:451 node 3 SE 1.0 awake=0
-...struction/token_construction.h:213 node 3 on 0
-...struction/token_construction.h:201 node 3 on 1
-...struction/token_construction.h:213 node 3 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 3 SE 1.0 active=0 awake=0
-...struction/token_construction.h:451 node 7 SE 1.1 awake=0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=0 awake=0
-...struction/token_construction.h:451 node 1 SE 1.0 awake=0
-...struction/token_construction.h:213 node 1 on 0
-...nstruction/timing_controller.h:204 schedule wakeup
-...nstruction/timing_controller.h:210 scheduling wakeup in 1000 ms
-...construction/semantic_entity.h:328 node 1 SE 1.0 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.0 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.2 active=0 awake=0
-...construction/semantic_entity.h:328 node 7 SE 1.1 active=0 awake=0
-...construction/semantic_entity.h:328 node 3 SE 1.1 active=0 awake=0
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 9 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 2 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 5 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 6 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 4 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 1 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=0 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 3 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 3 SE 1.0 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=9 from=1
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 9 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 7 -> 2 via 3
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 1 SE 1.0 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 5 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 6 -> 4 via 5
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 6 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 2 via 7
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=0 active_before=0 prevcount_before=0 prevcount=0 count=1 isroot=1 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 7 via 2
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=1 prevcount_before=1 prevcount=0 count=0 isroot=0 // token didnt do anything
 ------------------------------- DONE ITERATION 11
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 12
-...struction/token_construction.h:436 node 6 SE 1.2 awake=1
-...struction/token_construction.h:201 node 6 on 1
-...struction/token_construction.h:436 node 4 SE 1.2 awake=1
-...struction/token_construction.h:201 node 4 on 1
-...struction/token_construction.h:436 node 5 SE 1.2 awake=1
-...struction/token_construction.h:201 node 5 on 1
-...struction/token_construction.h:436 node 7 SE 1.2 awake=1
-...struction/token_construction.h:436 node 2 SE 1.1 awake=1
-...struction/token_construction.h:201 node 2 on 1
-...struction/token_construction.h:436 node 7 SE 1.0 awake=1
-...struction/token_construction.h:436 node 3 SE 1.1 awake=1
-...struction/token_construction.h:436 node 1 SE 1.0 awake=1
-...struction/token_construction.h:201 node 1 on 1
-...struction/token_construction.h:436 node 7 SE 1.1 awake=1
-...struction/token_construction.h:436 node 9 SE 1.0 awake=1
-...struction/token_construction.h:201 node 9 on 1
-...struction/token_construction.h:436 node 3 SE 1.0 awake=1
-...struction/token_construction.h:201 node 3 on 1
 ------------------------------- DONE ITERATION 12
   [ 10 active, 0 sleeping, 0 inactive ]
 
@@ -339,6 +542,76 @@ Hello World from Example Application! my id=9 app=0x82e9658
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 21
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 9 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 5 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 1 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 2 via 7
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 2 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 3 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 7 -> 2 via 3
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=0 active_before=1 prevcount_before=1 prevcount=0 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 6 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 4 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=1 active_before=1 prevcount_before=1 prevcount=1 count=1 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 7 via 2
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 2 SE 1.1 active=1 // because of token
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=0 prevcount=0 count=0 isroot=0 // token didnt do anything
 ------------------------------- DONE ITERATION 21
   [ 10 active, 0 sleeping, 0 inactive ]
 
@@ -379,6 +652,72 @@ Hello World from Example Application! my id=9 app=0x82e9658
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 31
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 2 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 6 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 4 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 1 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 2 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=6
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 6 -> 4 via 5
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 3 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=1 active_before=1 prevcount_before=2 prevcount=2 count=0 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 3 SE 1.1 active=1 active_before=1 prevcount_before=2 prevcount=2 count=1 isroot=0 // token didnt do anything
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=9 from=1
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 9 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 7 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=5 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 5 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 5 -> 7 via 4
+...struction/token_construction.h:398 +++++ recv token state me=7 from=4
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.2 active=0 active_before=1 prevcount_before=2 prevcount=1 count=1 isroot=0 // token didnt do anything
 ------------------------------- DONE ITERATION 31
   [ 10 active, 0 sleeping, 0 inactive ]
 
@@ -399,3 +738,129 @@ Hello World from Example Application! my id=9 app=0x82e9658
   [ 10 active, 0 sleeping, 0 inactive ]
 
 ------------------------------ BEGIN ITERATION 36
+------------------------------- DONE ITERATION 36
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 37
+------------------------------- DONE ITERATION 37
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 38
+------------------------------- DONE ITERATION 38
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 39
+------------------------------- DONE ITERATION 39
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 40
+------------------------------- DONE ITERATION 40
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 41
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 7 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 3 staying awake for another round on behalf of 1.1
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 9 staying awake for another round on behalf of 1.0
+...construction/semantic_entity.h:352 node 9 SE 1.0 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 7 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 7 SE 1.2 active=0 awake=1
+...nstruction/timing_controller.h:218 schedule wakeup
+...nstruction/timing_controller.h:227 staying awake
+...struction/token_construction.h:532 node 5 staying awake for another round on behalf of 1.2
+...construction/semantic_entity.h:352 node 5 SE 1.2 active=0 awake=1
+...struction/token_construction.h:317 ------ 0 didnt hear msg from 9 type 119
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 7 -> 2 via 3
+...construction/semantic_entity.h:352 node 3 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=6 from=5
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:450 node 6 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 6 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 2 SE 1.1 active=1 // because of token
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=5
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 4 SE 1.2 active=1 // because of token
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=3 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 3 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 3 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=4 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 4 SE 1.2 active=0 active_before=1 prevcount_before=2 prevcount=1 count=2 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 4 SE 1.2 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=1 from=9
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:450 node 1 SE 1.0 active=1 // because of token
+...construction/semantic_entity.h:352 node 1 SE 1.0 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=7 from=3
+...struction/token_construction.h:418 ++++++ fwd to parent
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 2 via 7
+...construction/semantic_entity.h:352 node 7 SE 1.1 active=0 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=2 prevcount=2 count=2 isroot=1 // token didnt do anything
+...construction/semantic_entity.h:352 node 2 SE 1.1 active=1 awake=1
+...struction/token_construction.h:398 +++++ recv token state me=2 from=7
+...struction/token_construction.h:412 +++++ processing at root
+...struction/token_construction.h:458 node 2 SE 1.1 active=1 active_before=1 prevcount_before=2 prevcount=2 count=2 isroot=1 // token didnt do anything
+...struction/token_construction.h:398 +++++ recv token state me=2 from=3
+...struction/token_construction.h:423 ++++++ fwd to child
+...struction/token_construction.h:434 +++++++ fwd token state 3 -> 7 via 2
+...struction/token_construction.h:398 +++++ recv token state me=7 from=2
+...struction/token_construction.h:400 +++++ processing because it came from parent
+...struction/token_construction.h:458 node 7 SE 1.1 active=0 active_before=0 prevcount_before=2 prevcount=2 count=2 isroot=0 // token didnt do anything
+------------------------------- DONE ITERATION 41
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 42
+------------------------------- DONE ITERATION 42
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 43
+------------------------------- DONE ITERATION 43
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 44
+------------------------------- DONE ITERATION 44
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 45
+------------------------------- DONE ITERATION 45
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 46
+------------------------------- DONE ITERATION 46
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 47
+------------------------------- DONE ITERATION 47
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 48
+------------------------------- DONE ITERATION 48
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+------------------------------ BEGIN ITERATION 49
+------------------------------- DONE ITERATION 49
+  [ 10 active, 0 sleeping, 0 inactive ]
+
+Simulation: Task done 'simulation'
